@@ -1,0 +1,6 @@
+SVN_BRANCH="trunk/extragear/sdk/${PN}"
+SVN_REV=${PV#*_r}
+
+inherit kde4 svn
+
+
